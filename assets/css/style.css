@@ -415,6 +415,8 @@ html {
     color: #fff;
     background-color: #000;
     float: right;
+    appearance: none;
+    -webkit-appearance: none;
 }
 
 .send-input-btn:hover{
